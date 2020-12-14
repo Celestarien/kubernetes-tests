@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Celestarien",
+      "name": "Celestarien",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43401854?v=4",
+      "profile": "https://github.com/Celestarien",
+      "contributions": [
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "kubernetes-tests",
+  "projectOwner": "Celestarien",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
