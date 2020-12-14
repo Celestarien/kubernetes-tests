@@ -1,4 +1,6 @@
-Commandes manuelles :
+# DevOPS Project
+
+## Commandes manuelles :
 
 sudo adduser administrator
 
@@ -8,7 +10,7 @@ sudo adduser dev
 
 \----------------------------------------------
 
-Commandes script :
+## Commandes script :
 
 cd ..
 
