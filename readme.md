@@ -2,26 +2,26 @@
 
 ## Commandes manuelles :
 
-sudo adduser administrator
+```sudo adduser administrator```
 
-sudo adduser ops
+```sudo adduser ops```
 
-sudo adduser dev
+```sudo adduser dev```
 
-\----------------------------------------------
+
 
 ## Commandes script :
 
-cd ..
+```cd ..```
 
-cd home/
+```cd home/```
 
-touch script.sh
+```touch script.sh```
 
-sudo nano script.sh
+```sudo nano script.sh```
 
 \# COPIER SCRIPT
 
-chmod a+x script.sh
+```chmod a+x script.sh```
 
-sudo ./script.sh
+```sudo ./script.sh```
